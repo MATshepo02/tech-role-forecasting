@@ -2,7 +2,7 @@
 
 **Module:** ITSFA4-14 | NQF Level 8  
 **Author:** Matshepo Tshabangu  
-**Institution:** University of the Witwatersrand  
+**Institution:** Eduvos 
 **Language:** Python  
 
 ---
@@ -99,12 +99,6 @@ Python 3.8+
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
 ```
 
-Or with a requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### requirements.txt
 ```
 pandas>=1.5
@@ -164,4 +158,4 @@ This project was completed individually in accordance with academic integrity po
 
 ---
 
-*University of the Witwatersrand | BSc Computer Science | 2025*
+*Eduvos | BSc IT(Hons) Data Science | 2026*
